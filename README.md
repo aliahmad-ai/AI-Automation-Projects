@@ -42,3 +42,15 @@ Books appointments, checks availability, and manages schedule automatically.
 ✔ n8n Automation Workflow
 
 Manages entire AI logic, tools, actions, memory, and error handling.
+Lovable Website
+      ↓
+Voice Agent (ElevenLabs)
+      ↓
+Webhook → n8n Workflow → Google Gemini (LLM)
+      ↓
+Google Sheets (Knowledge Base)
+      ↓
+Tools: Gmail + Google Calendar
+      ↓
+User Output (Voice Response + Email + Booking)
+
