@@ -3,6 +3,12 @@ J.A.R.V.I.S – AI Voice Agent for IronFit Fitness Center
 An end-to-end automated AI voice assistant built using n8n, ElevenLabs, Google Gemini, and Lovable.
 J.A.R.V.I.S can speak in multiple languages, answer gym-related questions, book appointments, send email confirmations, update Google Calendar, and manage data directly from Google Sheets.
 
+## 🎥 Demo Video
+Watch the full demo of J.A.R.V.I.S:
+
+[▶️ Watch on YouTube](https://youtu.be/fR3RrUciHIk)
+
+
 🚀 Project Overview
 
 J.A.R.V.I.S is a fully automated AI agent designed to enhance customer engagement for fitness centers and service-based businesses.
