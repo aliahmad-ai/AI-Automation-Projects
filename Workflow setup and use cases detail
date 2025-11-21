@@ -1,0 +1,110 @@
+Workflow setup and use cases
+
+🧩 PHASE 1: Workflow Setup (n8n)
+Step 1: Create n8n Workflow
+
+Webhook trigger for voice-agent requests
+
+AI Agent node connected with Gemini
+
+Conversation context & memory enabled
+
+Step 2: Build Knowledge Base
+
+Google Sheet with 5 structured tabs
+
+Includes: gym plans, classes, trainers, FAQs, details
+
+Connected directly to workflow
+
+Step 3: Calendar Integration
+
+Google Calendar connected
+
+Tools added:
+
+Check Availability
+
+Book Appointment
+
+Step 4: Email Automation
+
+Gmail API connected
+
+HTML template designed
+
+Auto-sends user confirmation emails
+
+🎙 PHASE 2: Voice Agent (ElevenLabs)
+Step 5: Create Voice Agent (Jarvis)
+
+Custom professional voice
+
+System prompt defining behavior & rules
+
+Connected to n8n webhook endpoint
+
+Step 6: Train Conversation Flow
+
+Personality defined (professional, efficient, friendly)
+
+Clear response style
+
+Error handling added
+
+Context memory setup
+
+🌍 Website Integration
+
+Using the Lovable platform:
+
+Frontend built
+
+Voice agent embed integrated
+
+Smooth user-facing experience
+
+🧠 How J.A.R.V.I.S Uses RAG
+
+Entire website + gym info stored in Google Sheets
+
+AI retrieves the most relevant data during conversation
+
+Ensures accurate answers, updated pricing, correct schedules
+
+No hallucinations
+
+📦 Use Cases
+
+Gyms & Fitness Centers
+
+Clinics & Hospitals
+
+Salons & Spas
+
+Consultants / Coaches
+
+Restaurants (menu + order booking)
+
+Real estate inquiries
+
+Service-based businesses needing automation
+
+📈 Why This Project Matters
+
+This system shows how small businesses can:
+
+Improve customer response time
+
+Automate bookings & emails
+
+Reduce staff workload
+
+Offer 24/7 voice support
+
+Boost customer engagement
+— all without hiring a team.
+
+📪 Contact
+
+If you want your own AI Voice Agent, text chatbot, or automation workflow, feel free to connect!
